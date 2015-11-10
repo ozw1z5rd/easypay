@@ -1,0 +1,40 @@
+Easypay lista componenti.
+La numerazione può non essere contigua.
+
+U0 -  ATMEL mega16L 
+
+Q0  - 7805CT
+Q1  - BC237
+Q2  - BC237
+
+FC1(U1) - 4n25
+FC2(U2) - 4n25
+
+D1  - 1N4148
+D2  - 1N4148
+
+x1  - 8MHZ
+
+RL1(U3) - DIP 1A05
+RL2(U4) - DIP 1A05
+
+R10 - 2K2  1/4W
+R11 - 2K2  1/4W
+R4  - 10K  1/4W
+R5  - 10K  1/4W 
+R6  - 10K  1/4W
+R1  - 820  1/4W
+R2  - 820  1/4W
+R8  - 820  1/4W
+R12 - 820  1/4W
+R9  - 100K 1/4w
+
+c1  - 100.000 pF
+C4  - 100.000 pF  
+C2  - 22 uF
+C3  - 22 uF
+
+RST0 - connettore strip 1x2
+IPS0 - connettore strip 5x2
+P3   - connettore strip 13x2 90 gradi
+
